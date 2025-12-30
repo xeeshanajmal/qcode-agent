@@ -42,7 +42,11 @@ cd qcode-agent
 ```
 
 # Install required packages
+```bash
 pip install -r requirements.txt
+```
 
 # Launch the application
+```bash
 streamlit run app.py
+```
